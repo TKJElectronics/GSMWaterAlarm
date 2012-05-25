@@ -1,0 +1,8 @@
+The code is released under the GNU General Public License.
+
+This is the code for our GSM Water alarm school exam project made back in 2011.
+
+The project is based on a PIC16F690 and an inexpensive SIM300 GSM module for sending SMS warnings.
+The code is made in mikroC for PIC where their free evaluation version can be used to compile the project.
+
+For more information see our blog post: http://blog.tkjelectronics.dk/2011/07/pic-based-wateralarm-with-sms-function/ or send us an email at support@tkjelectronics.dk.
